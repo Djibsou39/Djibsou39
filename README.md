@@ -57,13 +57,6 @@ Géomaticien avec une expertise combinant **analyse spatiale**, **data engineeri
 
 ---
 
-## 📈 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USER_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Djibril" />
-</p>
-
----
-
 ## 🗣️ Langues & Soft Skills
 * 🇫🇷 **Français** : Maternel
 * 🇬🇧 **Anglais** : Intermédiaire (B2)
