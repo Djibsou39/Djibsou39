@@ -1,67 +1,76 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=150&section=header&text=Djibril%20Soumaré&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Géomaticien%20·%20Data%20Analyst%20·%20Développeur%20SIG&descAlignY=65&descSize=18&descColor=9FE1CB" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=180&section=header&text=Djibril%20Soumaré&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Géomaticien%20•%20Data%20Analyst%20•%20Développeur%20SIG&descAlignY=60&descSize=20&descColor=9FE1CB&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](VOTRE_LIEN_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=ko-fi&logoColor=white)](VOTRE_PORTFOLIO_OU_SITE)
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/Connecter-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](VOTRE_LIEN_LINKEDIN)
+  [![Portfolio](https://img.shields.io/badge/Consulter-Portfolio-1D9E75?style=for-the-badge&logo=react&logoColor=white)](VOTRE_PORTFOLIO)
+  [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre@email.com)
+
+  <br/>
+  
+  ### 🚀 Transformer la donnée spatiale en décisions stratégiques
+  *De la base de données PostGIS jusqu'au déploiement de WebSIG interactifs.*
 </div>
 
-## 🛰️ À propos de moi
+---
 
-Géomaticien avec une expertise combinant **analyse spatiale**, **data engineering** et **développement web cartographique**. Je conçois des pipelines de données robustes, des applications SIG interactives et des tableaux de bord décisionnels.
-
-* **Actuellement :** Alternance à la **Direction Scientifique et Technique (DST) — Inrap**, Paris.
-* **Mission :** De la base de données brute jusqu'à la carte interactive en ligne.
+## 👤 À propos
+<table border="0">
+ <tr>
+    <td width="60%">
+       <p>Actuellement <b>Administrateur de Bases de Données Spatiales</b> en alternance à l'<strong>Inrap (Paris)</strong>, je me spécialise dans la construction de pipelines de données robustes et la visualisation cartographique avancée.</p>
+       <p>Ma double casquette <strong>Géomaticien / Développeur</strong> me permet de concevoir des outils sur-mesure pour l'analyse du territoire et du patrimoine.</p>
+       <br/>
+       <b>📍 Basé à :</b> Paris / IDF<br/>
+       <b>🎓 Formation :</b> Géomatique & Data Science
+    </td>
+    <td width="40%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USER_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+ </tr>
+</table>
 
 ---
 
-## 🛠 Stack Technique
+## 🛠️ Stack Technologique
 
-### 🌍 SIG & Cartographie
-<p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-005E95?style=flat-square&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoServer-2C6288?style=flat-square&logo=geoserver&logoColor=white" />
-</p>
+| Domaine | Outils & Langages |
+| :--- | :--- |
+| **Data & Scripting** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) |
+| **SIG Expert** | ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/-ArcGIS-005E95?style=flat&logo=arcgis&logoColor=white) ![FME](https://img.shields.io/badge/-FME-FF6B00?style=flat) ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat&logo=postgresql) |
+| **Web Mapping** | ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![MapLibre](https://img.shields.io/badge/-MapLibre-213147?style=flat&logo=maplibre&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
+| **BI & Analytics** | ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![KNIME](https://img.shields.io/badge/-KNIME-FFDE00?style=flat) |
 
-### 💻 Programmation & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-</p>
+---
 
-### 📊 BI & Automatisation
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/FME-FF6B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/KNIME-FFDE00?style=flat-square" />
+## 💼 Expérience Phare
+
+**Administrateur Base de Données Spatiales** | *Inrap (DST), Paris* *2024 — 2026*
+
+> - ⚙️ **ETL & Data Engineering** : Automatisation de l'intégration des données archéologiques.
+> - 🔍 **Audit & Qualité** : Fiabilisation de l'Atlas archéologique national.
+> - 🌐 **Innovation** : Développement d'outils d'harmonisation de données hétérogènes.
+
+---
+
+## 📊 Activité GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USER_GITHUB&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USER_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 </p>
 
 ---
 
-## 💼 Expérience Actuelle
-
-> **Administrateur Base de Données Spatiales** | *Sept. 2024 – Août 2026*
-> **Inrap (DST)** — Paris (Alternance)
->
-> * **Audit & Intégration :** Gestion des flux de données géographiques archéologiques.
-> * **Atlas Archéologique :** Mise à jour et fiabilisation des bases de données nationales.
-> * **Harmonisation :** Mise en place de process de nettoyage et de standardisation (ETL).
-
----
-
-## 🗣️ Langues & Soft Skills
-* 🇫🇷 **Français** : Maternel
-* 🇬🇧 **Anglais** : Intermédiaire (B2)
-* 💡 **Soft Skills** : Force de proposition, Rigueur scientifique, Créativité cartographique.
+## 📬 Restons en contact !
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=100&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
 </div>
