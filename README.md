@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=ko-fi&logoColor=white)](VOTRE_PORTFOLIO_OU_SITE)
 </div>
 
-## 🗺️ À propos de moi
+## 👨🏿 À propos de moi
 
 Géomaticien avec une expertise combinant **analyse spatiale**, **data engineering** et **développement web cartographique**. Je conçois des pipelines de données robustes, des applications SIG interactives et des tableaux de bord décisionnels.
 
