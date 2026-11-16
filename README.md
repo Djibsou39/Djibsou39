@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=150&section=header&text=Djibril%20Soumaré&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Géomaticien%20·%20Développeur %·%20Data%20Analyst%2020SIG&descAlignY=65&descSize=18&descColor=9FE1CB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=150&section=header&text=Djibril%20Soumaré&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Géomaticien%20·%20Développeur%20SIG%20·%20Data%20Analyst&descAlignY=65&descSize=18&descColor=9FE1CB" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](VOTRE_LIEN_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=ko-fi&logoColor=white)](VOTRE_PORTFOLIO_OU_SITE)
